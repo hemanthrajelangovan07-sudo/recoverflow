@@ -1,0 +1,1 @@
+{"version":3,"file":"engine.d.ts","sourceRoot":"","sources":["../../src/policy/engine.ts"],"names":[],"mappings":"AAEA,MAAM,MAAM,cAAc,GAAG;IAC3B,MAAM,EAAE,UAAU,CAAC;IACnB,MAAM,EAAE,MAAM,CAAC;IACf,WAAW,EAAE,MAAM,CAAC;CACrB,CAAC;AAEF,wBAAgB,WAAW,CAAC,UAAU,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,cAAc,GAAG,IAAI,CA4ErF"}

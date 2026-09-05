@@ -1,0 +1,11 @@
+{
+  "max_messages_per_case": 2,
+  "max_retry_attempts": 3,
+  "approval_required_above": 25000,
+  "cooldown_hours_between_messages": 24,
+  "stop_on_payment_captured": true,
+  "stop_on_customer_opt_out": true,
+  "auto_actions": ["retry", "payment_link", "reminder"],
+  "human_approval_actions": ["escalate_high_value"],
+  "no_auto_action": ["suspected_fraud"]
+}
